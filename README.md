@@ -5,6 +5,8 @@ This is to Test all the Features.
 _)
 And anotheer Comit
 
-And Commit... brranch ööööö
+And Commit... brranch Ã¶Ã¶Ã¶Ã¶Ã¶
 
 +lll
+
+Projecthomepage: http://benkmann.github.io/HelloGit/
