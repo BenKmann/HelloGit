@@ -3,6 +3,6 @@ TestRepo
 
 This is to Test all the Features.
 _)
-And anotheer Commit
+And anotheer Comit
 
-And anotheer Commit... brranch ööööö
+And anotheer Comit... brranch Ã¶Ã¶Ã¶Ã¶Ã¶
