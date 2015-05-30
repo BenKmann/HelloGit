@@ -5,4 +5,6 @@ This is to Test all the Features.
 _)
 And anotheer Comit
 
-And anotheer Comit... brranch Ã¶Ã¶Ã¶Ã¶Ã¶
+And Commit... brranch ööööö
+
++lll
